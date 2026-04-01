@@ -1,16 +1,18 @@
-# Data Mining for Sustainability
-Can AI empower ESG funds to invest in companies truly committed to sustainability?
+## Project Overview
 
-This was the driving question behind this project - Data Mining for Sustainability: Tracking Environmental Progress in the Oil and Gas Sector Using AI.
+This project investigates whether AI-driven data mining can improve the evaluation of corporate environmental performance within ESG-focused investment analysis.
 
-For ESG funds, distinguishing between companies genuinely committed to sustainability and those engaging in superficial greenwashing is critical. However, reporting inconsistencies often make this task challenging, leaving funds reliant on incomplete and unstandardized data.
+The core objective was to address a common challenge faced by ESG funds: assessing whether reported sustainability commitments reflect measurable environmental progress, rather than unverified or inconsistent disclosures. In practice, this is difficult because annual reports often contain unstructured text, non-standardized metrics, and varying levels of reporting quality across firms.
 
-Our project tackles this issue by:
+To address this, the project developed a data mining and analytics workflow for the oil and gas sector with three main components:
 
-1️⃣ Automating the extraction of relevant text from annual reports.
+1. **Automated Text Extraction**  
+   Relevant sustainability-related content was extracted from annual reports to reduce manual review effort and improve document-level comparability.
 
-2️⃣ Using AI to identify key environmental metrics and evaluate corporate claims.
+2. **AI-Based Environmental Metric Identification**  
+   AI techniques were used to detect, structure, and evaluate key environmental indicators and corporate sustainability claims from unstructured disclosures.
 
-3️⃣ Employing financial modeling to explore the link between financial strategies and environmental progress.
+3. **Financial and Analytical Assessment**  
+   Extracted ESG-related outputs were combined with financial analysis to examine the relationship between company financial strategies and observed environmental progress.
 
-The findings bridge the gap between corporate sustainability claims and measurable outcomes, emphasizing the urgent need for standardized ESG reporting and independent audits to ensure accountability and transparency.
+The project ultimately aimed to reduce reliance on fragmented self-reported disclosures by creating a more systematic, reproducible, and evidence-based approach to ESG evaluation. The findings highlight the limitations of inconsistent sustainability reporting and reinforce the importance of standardized ESG disclosure frameworks and independent verification mechanisms.
